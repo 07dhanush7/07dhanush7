@@ -85,8 +85,6 @@ This section will be updated soon with:
 ---
 ## 🤝 Contact Me
 
-## 🤝 Contact Me
-
 <p>
   <a href="mailto:dhanushragava727@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
