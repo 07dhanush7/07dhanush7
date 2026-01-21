@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web-Engineering-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aspiring-Full%20Stack%20Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge"/>
 </p>
 
