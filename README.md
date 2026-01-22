@@ -89,7 +89,7 @@ This section will be updated soon with:
   <a href="mailto:dhanushragava727@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/dhanush-r-v-3a04b7289">
+  <a href="https://www.linkedin.com/in/dhanush-rv">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
