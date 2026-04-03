@@ -67,8 +67,6 @@ I strongly believe in **consistent learning, practical implementation, and conti
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 </p>
 
----
-
 ## 📄 Resume
 
 <p align="center">
