@@ -107,6 +107,7 @@ I strongly believe in **consistent learning, practical implementation, and conti
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhanush7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
+
 ## ⭐ Final Note
 Thank you for visiting my profile.  
 I am continuously learning and working towards becoming a proficient full stack developer.
