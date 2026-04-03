@@ -99,18 +99,16 @@ I strongly believe in **consistent learning, practical implementation, and conti
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07dhanush7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=07dhanush7&theme=tokyonight&hide_border=true" height="160"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=07dhanush7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=07dhanush7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhanush7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhanush7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## ⭐ Final Note
