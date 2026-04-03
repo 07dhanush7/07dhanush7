@@ -1,14 +1,14 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">Full Stack Developer | Aspiring Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Dhanush Ragava RV </h1>
+<h3 align="center">Aspiring Full Stack Developer | Web Development Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Aspiring-Full%20Stack%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Learner-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge"/>
 </p>
 
@@ -16,17 +16,15 @@
 
 ## 🧑‍💻 About Me
 
-Currently, I am dedicated to establishing a strong foundation in frontend and backend technologies, enhancing my coding discipline, and implementing small-scale projects to acquire valuable practical experience.
+Currently, I am focused on building a strong foundation in **client-side and server-side technologies**, improving my coding practices, and working on **hands-on projects** to gain practical experience.
 
 **At this stage of my journey, I am:**
-- 🌱 Systematically learning fundamental web development concepts  
-- 🛠️ Practicing client-side and server-side technologies through continuous experimentation  
-- 📚 Studying how real-world web applications are designed, structured, and deployed  
-- 🚀 Highly motivated to evolve into a proficient and reliable full stack developer  
+- 🌱 Systematically learning core web development concepts  
+- 🛠️ Practicing frontend and backend technologies through continuous experimentation  
+- 📚 Exploring how real-world web applications are designed and developed  
+- 🚀 Motivated to grow into a skilled full stack developer  
 
-I strongly believe in **consistent learning, practical implementation, and continuous personal and technical growth**.
-
- 
+I strongly believe in **consistent learning, practical implementation, and continuous improvement**.
 
 ---
 
@@ -70,16 +68,24 @@ I strongly believe in **consistent learning, practical implementation, and conti
 </p>
 
 ---
+
+## 📄 Resume
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1capNKXwxayXaBw1oKaG4Qhm9nXgyUY2Q/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1capNKXwxayXaBw1oKaG4Qhm9nXgyUY2Q/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  📥 Click above to view or download my resume
+</p>
+
 ---
 
 ## 🤝 Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:dhanushragava727@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -88,11 +94,10 @@ I strongly believe in **consistent learning, practical implementation, and conti
   </a>
 </p>
 
-
-
 <p align="center">
-  📩 Feel free to reach out for collaborations, projects, or professional opportunities.
+  📩 Open to collaborations, internships, and learning opportunities
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -104,5 +109,5 @@ I strongly believe in **consistent learning, practical implementation, and conti
 ---
 
 ## ⭐ Final Note
-Thank you for visiting my GitHub profile.  
-I am open to **collaboration, internships, and full-time roles**, and I enjoy working on impactful projects.
+Thank you for visiting my profile.  
+I am continuously learning and working towards becoming a proficient full stack developer.
