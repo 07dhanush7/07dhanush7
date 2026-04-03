@@ -103,12 +103,12 @@ I strongly believe in **consistent learning, practical implementation, and conti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07dhanush7&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07dhanush7&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=07dhanush7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=07dhanush7&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhanush7&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07dhanush7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
