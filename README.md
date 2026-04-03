@@ -70,7 +70,7 @@ I strongly believe in **consistent learning, practical implementation, and conti
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1capNKXwxayXaBw1oKaG4Qhm9nXgyUY2Q/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1hP802g8kqIps3k8WAJWumFBjYdRjNHGF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
