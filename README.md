@@ -70,20 +70,12 @@ I strongly believe in **consistent learning, practical implementation, and conti
 </p>
 
 ---
-
-## 📄 Resume
-🚧 **Under Preparation**
-
-I am currently developing my professional resume.  
-This section will be updated soon with:
-- A downloadable resume (PDF)
-- Professional summary
-- Career highlights
-
-📌 *This section can be edited or replaced at any time.*
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1capNKXwxayXaBw1oKaG4Qhm9nXgyUY2Q/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 ---
-## 🤝 Contact Me
 
 ## 🤝 Contact Me
 
